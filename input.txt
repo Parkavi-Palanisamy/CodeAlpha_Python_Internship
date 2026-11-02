@@ -1,0 +1,4 @@
+Contact us at support@example.com
+For internship details, email intern@codealpha.tech
+Invalid email: hello@
+Reach our team at hr.department@gmail.com

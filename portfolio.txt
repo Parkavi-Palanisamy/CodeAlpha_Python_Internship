@@ -1,0 +1,4 @@
+Stock Portfolio
+AAPL: 5 shares = $900
+
+Total Investment: $900
